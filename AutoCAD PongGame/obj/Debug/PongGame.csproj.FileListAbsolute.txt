@@ -1,0 +1,23 @@
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\bin\Debug\PongGameAutoCAD.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\bin\Debug\PongGameAutoCAD.pdb
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\bin\Debug\PresentationCore.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\bin\Debug\AcTcMgd.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\bin\Debug\AcCui.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGame.csprojResolveAssemblyReference.cache
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGame.csproj.GenerateResource.Cache
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGameAutoCAD.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGameAutoCAD.pdb
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGame.MyCommands.resources
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\Template AutoCAD PlugIn\obj\Debug\PongGame.KeyPressHandler.resources
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\PongGameAutoCAD.XML
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\PongGameAutoCAD.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\PongGameAutoCAD.pdb
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\PresentationCore.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\AcTcMgd.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\bin\Debug\AcCui.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGame.csprojResolveAssemblyReference.cache
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGame.KeyPressHandler.resources
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGame.PongCommands.resources
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGame.csproj.GenerateResource.Cache
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGameAutoCAD.dll
+C:\Users\Jericho Masigan\Documents\Programming\AutoCAD.Pong\AutoCAD PongGame\obj\Debug\PongGameAutoCAD.pdb
