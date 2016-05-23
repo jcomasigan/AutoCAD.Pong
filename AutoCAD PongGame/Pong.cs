@@ -37,6 +37,7 @@ namespace PongGame
         /// </summary>
         public void StartGame()
         {
+            keyPress = "";
             Document doc = Application.DocumentManager.MdiActiveDocument;
             Database db = doc.Database;
             Editor ed = doc.Editor;

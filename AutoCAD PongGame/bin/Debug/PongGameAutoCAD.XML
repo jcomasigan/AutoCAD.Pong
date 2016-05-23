@@ -102,5 +102,10 @@
               Looks up a localized string similar to MySessionCmd.
             </summary>
         </member>
+        <member name="M:PongGame.Pong.StartGame">
+            <summary>
+            Starts The Pong Game
+            </summary>
+        </member>
     </members>
 </doc>
