@@ -1,0 +1,18 @@
+
+
+INTERNAL ERROR:  !dbobji.cpp@8615: eNotOpenForWrite
+
+05/18/2016 at 21:37:04.434  Drawing: Drawing1.dwg
+-------------
+
+
+INTERNAL ERROR:  !dbobji.cpp@8615: eNotOpenForWrite
+
+05/18/2016 at 21:42:33.132  Drawing: Drawing1.dwg
+-------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 757098f9h
+
+05/18/2016 at 21:55:21.981  Drawing: Drawing1.dwg
+-------------
